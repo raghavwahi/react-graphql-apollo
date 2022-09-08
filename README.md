@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<hr/>
+
+This app fetches countries list and upon clicking on any country name, fetches its real time details (Information about the country).
+App also has a search functionality which filters out the countries based on the search on the go.
+
+Apollo client has been used to fetch data using graphql queries.
+
+## Do check it out
